@@ -1,3 +1,6 @@
+
+******For latest update, please move to this [repo](https://github.com/RunxinXu/TSAR).
+
 # TSAR
 
 Source code for NAACL 2022 paper: [A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction]().
